@@ -6,6 +6,32 @@
       on-error-remove-class="my-font-loading"
       on-error-add-class="my-font-missing"></amp-font>
 
+
+ <amp-analytics type="googleanalytics" id="analytics1">
+  <script type="application/json">
+  {
+    "vars": {
+      "account": "UA-85171189-1"
+    },
+    "triggers": {
+      "trackPageview": {
+        "on": "visible",
+        "request": "pageview"
+      },
+      "trackEvent": {
+        "selector": "#event-test",
+        "on": "click",
+        "request": "event",
+        "vars": {
+          "eventCategory": "ui-components",
+          "eventAction": "click"
+        }
+      }
+    }
+  }
+  </script>
+  </amp-analytics>
+  
  <header class="site-header">
   <a href="{{ site.baseurl }}/" class="logo"><span class="logo"><amp-img src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48" /></span></a>
 

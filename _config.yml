@@ -19,8 +19,8 @@ name: 'Melissa Peterson'
 bio: >
   Licensed Clinical Social Worker.
 author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: timrpeterson
+github_username:  tim-peterson
 
 # Build settings
 markdown: kramdown
