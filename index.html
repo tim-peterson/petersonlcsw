@@ -8,11 +8,10 @@ layout: default
       <h1 class="blog-title">{{ site.title }}</h1>
       <h2 class="blog-description">{{ site.description }}</h2>
 
-	<p>
-		<div>9909 Clayton Road, Suite LL2A</div>
-		<div>St. Louis, MO 63124</div>
-		<div><a id="event-test" href="tel:314-649-8231">314-649-8231</a></div>
-	</p>
+
+
+      {% include about.html %}
+
 
   </header>
 
@@ -33,6 +32,9 @@ layout: default
       </article>
     {% endfor %}
   </div>
+
+
+ 
 
   <!--nav class="pagination" role="navigation">
     {% if paginator.next_page %}
