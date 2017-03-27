@@ -7,14 +7,17 @@ permalink: /services/
 
 
 I offer individual psychotherapy for adults and adolescents and specialize in the treatment of:
-Eating disorders/disordered eating/ body image concerns
-Trauma
-Mood Disorders
-Anxiety Disorders
-Grief and loss
-Self-injurious behaviors and Borderline Personality Disorder
+
+
+* Eating disorders/disordered eating/ body image concerns
+* Trauma
+* Mood Disorders
+* Anxiety Disorders
+* Grief and loss
+* Self-injurious behaviors and Borderline Personality Disorder
 
 -DBT Therapy
+
 -Integrative Eating Disorder Therapy
 
 

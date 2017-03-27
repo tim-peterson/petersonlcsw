@@ -4,6 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
+
+	melissa@petersonlcsw.com
+
 	9909 Clayton Road, Suite LL2A
 
 	St. Louis, MO 63124
