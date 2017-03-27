@@ -4,6 +4,15 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+Welcome to my practice.
+
+I am a licensed clinical social worker located in St. Louis, Missouri offering short and long-term psychotherapy to adolescents and adults. I have over a decade of experience working with adolescents, adults, families and groups in both short and long-term treatments for a range of emotional and interpersonal concerns. 
+
+I have a uniquely broad training background and utilize different treatment models, including psychodynamic, interpersonal, mindfulness and skills-based therapies such as CBT (cognitive behavioral therapy) ACT (acceptance and commitment therapy) and DBT (dialectical behavior therapy) to best tailor a treatment and to meet your individual needs and goals. 
+
+Essential to positive change is a strong, trusting relationship between therapist and client. My approach is compassionate, non-judgmental, collaborative and integrative-- drawing from different theoretical frameworks to understand the root of one's suffering. It is very brave to seek treatment and commit to change and I look forward to joining you on this path to greater balance and well-being.
+
+
+<!--amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img-->
 
 
