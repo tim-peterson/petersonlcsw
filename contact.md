@@ -7,9 +7,9 @@ permalink: /contact/
 
 melissa@petersonlcsw.com
 
-9909 Clayton Road, Suite LL2A
+7751 Carondelet Avenue, Suite 600
 
-St. Louis, MO 63124
+St. Louis, MO 63105
 
 314-649-8231
 	
